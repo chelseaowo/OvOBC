@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "OnSelf",
+    "Intensity": 80,
+    "DurationMS": 5000,
+    "RampTimeMS": 2000,
+    "Names": [
+      "*"
+    ],
+    "Actions": [
+      "Slap",
+      "SpankItem"
+    ],
+    "Items": [
+      "*"
+    ]
+  },
+  {
+    "Type": "OnSelf",
+    "Intensity": 90,
+    "DurationMS": 6000,
+    "RampTimeMS": 2000,
+    "Names": [
+      "*"
+    ],
+    "Actions": [
+      "ShockItem"
+    ],
+    "Items": [
+      "*"
+    ]
+  },
+  {
+    "Type": "OnSelf",
+    "Intensity": 60,
+    "DurationMS": 5000,
+    "RampTimeMS": 3000,
+    "Names": [
+      "ItemVulva",
+      "ItemVulvaPiercings",
+      "ItemBreast",
+      "ItemNipples",
+      "ItemButt"
+    ],
+    "Actions": [
+      "Spank",
+      "Kick"
+    ],
+    "Items": [
+      "*"
+    ]
+  },
+  {
+    "Type": "OnSelf",
+    "Intensity": 50,
+    "DurationMS": 8000,
+    "RampTimeMS": 4000,
+    "Names": [
+      "ItemVulva",
+      "ItemVulvaPiercings",
+      "ItemButt",
+      "ItemBreast",
+      "ItemNipples"
+    ],
+    "Actions": [
+      "Masturbate",
+      "MasturbateTongue",
+      "MasturbateFoot",
+      "MasturbateHand",
+      "Grope",
+      "PenetrateSlow",
+      "PenetrateFast"
+    ],
+    "Items": [
+      "*"
+    ]
+  }
+]
