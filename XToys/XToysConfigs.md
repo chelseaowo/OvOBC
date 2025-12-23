@@ -29,3 +29,16 @@
   - `Actions`         可以處理的動作
   - `Item`            該動作觸發時的道具，無道具是 `none`
 
+### 動作名（Actions）
+
+- 電繫
+  - `ShockLow`          低强度
+  - `ShockMed`          中强度
+  - `ShockHigh`         高强度
+  - `ShockItem`         使用物品電繫某處
+
+### 打
+  - `Slap`              扇
+  - `Spank`             拍
+  - `SpankItem`         用物鞭打
+
