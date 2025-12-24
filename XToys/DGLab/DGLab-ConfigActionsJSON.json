@@ -46,22 +46,6 @@
   },
   {
     "Type": "OnSelf",
-    "Intensity": 80,
-    "DurationMS": 5000,
-    "RampTimeMS": 2000,
-    "Names": [
-      "*"
-    ],
-    "Actions": [
-      "Slap",
-      "SpankItem"
-    ],
-    "Items": [
-      "*"
-    ]
-  },
-  {
-    "Type": "OnSelf",
     "Intensity": 100,
     "DurationMS": 5000,
     "RampTimeMS": 3000,
@@ -201,6 +185,40 @@
     ],
     "Items": [
       "Whip"
+    ]
+  },
+  {
+    "Type": "OnSelf",
+    "Intensity": 80,
+    "DurationMS": 4000,
+    "RampTimeMS": 2000,
+    "Names": [
+      "*"
+    ],
+    "Actions": [
+      "SpankItem"
+    ],
+    "Items": [
+      "Flogger",
+      "Paddle"
+    ]
+  },
+  {
+    "Type": "OnSelf",
+    "Intensity": 60,
+    "DurationMS": 4000,
+    "RampTimeMS": 2000,
+    "Names": [
+      "*"
+    ],
+    "Actions": [
+      "SpankItem"
+    ],
+    "Items": [
+      "WhipPaddle",
+      "Cane",
+      "Crop",
+      "HeartCrop"
     ]
   },
   {
