@@ -1,6 +1,51 @@
 [
   {
     "Type": "OnSelf",
+    "Intensity": 100,
+    "DurationMS": 5000,
+    "RampTimeMS": 3000,
+    "Names": [
+      "ItemButt"
+    ],
+    "Actions": [
+      "ShockHigh"
+    ],
+    "Items": [
+      "ShockPlug"
+    ]
+  },
+  {
+    "Type": "OnSelf",
+    "Intensity": 70,
+    "DurationMS": 5000,
+    "RampTimeMS": 3000,
+    "Names": [
+      "ItemButt"
+    ],
+    "Actions": [
+      "ShockMed"
+    ],
+    "Items": [
+      "ShockPlug"
+    ]
+  },
+  {
+    "Type": "OnSelf",
+    "Intensity": 40,
+    "DurationMS": 5000,
+    "RampTimeMS": 2000,
+    "Names": [
+      "ItemButt"
+    ],
+    "Actions": [
+      "ShockLow"
+    ],
+    "Items": [
+      "ShockPlug"
+    ]
+  },
+  {
+    "Type": "OnSelf",
     "Intensity": 80,
     "DurationMS": 5000,
     "RampTimeMS": 2000,
@@ -13,6 +58,81 @@
     ],
     "Items": [
       "*"
+    ]
+  },
+  {
+    "Type": "OnSelf",
+    "Intensity": 100,
+    "DurationMS": 5000,
+    "RampTimeMS": 3000,
+    "Names": [
+      "ItemLegs"
+    ],
+    "Actions": [
+      "ShockLow"
+    ],
+    "Items": [
+      "电击器"
+    ]
+  },
+  {
+    "Type": "OnSelf",
+    "Intensity": 50,
+    "DurationMS": 9000,
+    "RampTimeMS": 2000,
+    "Names": [
+      "ItemLegs"
+    ],
+    "Actions": [
+      "ShockMed"
+    ],
+    "Items": [
+      "电击器"
+    ]
+  },
+  {
+    "Type": "OnSelf",
+    "Intensity": 100,
+    "DurationMS": 5000,
+    "RampTimeMS": 3000,
+    "Names": [
+      "ItemVulva"
+    ],
+    "Actions": [
+      "ShockHigh"
+    ],
+    "Items": [
+      "ShockDildo"
+    ]
+  },
+  {
+    "Type": "OnSelf",
+    "Intensity": 80,
+    "DurationMS": 9000,
+    "RampTimeMS": 3000,
+    "Names": [
+      "ItemVulva"
+    ],
+    "Actions": [
+      "ShockMed"
+    ],
+    "Items": [
+      "ShockDildo"
+    ]
+  },
+  {
+    "Type": "OnSelf",
+    "Intensity": 60,
+    "DurationMS": 9000,
+    "RampTimeMS": 2000,
+    "Names": [
+      "ItemVulva"
+    ],
+    "Actions": [
+      "ShockLow"
+    ],
+    "Items": [
+      "ShockDildo"
     ]
   },
   {
