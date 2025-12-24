@@ -230,7 +230,8 @@
       "*"
     ],
     "Actions": [
-      "ShockItem"
+      "ShockItem",
+      "Slap"
     ],
     "Items": [
       "*"
