@@ -137,7 +137,75 @@
   },
   {
     "Type": "OnSelf",
-    "Intensity": 90,
+    "Intensity": 80,
+    "DurationMS": 6000,
+    "RampTimeMS": 2000,
+    "Names": [
+      "ItemVulva"
+    ],
+    "Actions": [
+      "ShockMed"
+    ],
+    "Items": [
+      "FuturisticVibrator"
+    ]
+  },
+  {
+    "Type": "OnSelf",
+    "Intensity": 100,
+    "DurationMS": 4000,
+    "RampTimeMS": 2000,
+    "Names": [
+      "ItemVulva",
+      "ItemVulvaPiercings",
+      "ItemButt",
+      "ItemLegs"
+    ],
+    "Actions": [
+      "SpankItem"
+    ],
+    "Items": [
+      "Whip"
+    ]
+  },
+  {
+    "Type": "OnSelf",
+    "Intensity": 80,
+    "DurationMS": 4000,
+    "RampTimeMS": 2000,
+    "Names": [
+      "ItemTorso",
+      "ItemPelvis",
+      "ItemBreast",
+      "ItemNipples"
+    ],
+    "Actions": [
+      "SpankItem"
+    ],
+    "Items": [
+      "Whip"
+    ]
+  },
+  {
+    "Type": "OnSelf",
+    "Intensity": 50,
+    "DurationMS": 4000,
+    "RampTimeMS": 2000,
+    "Names": [
+      "ItemArms",
+      "ItemFeet",
+      "ItemBoots"
+    ],
+    "Actions": [
+      "SpankItem"
+    ],
+    "Items": [
+      "Whip"
+    ]
+  },
+  {
+    "Type": "OnSelf",
+    "Intensity": 80,
     "DurationMS": 6000,
     "RampTimeMS": 2000,
     "Names": [
@@ -172,7 +240,7 @@
   },
   {
     "Type": "OnSelf",
-    "Intensity": 50,
+    "Intensity": 30,
     "DurationMS": 8000,
     "RampTimeMS": 4000,
     "Names": [
